@@ -3,7 +3,9 @@ languageCode = "uk-ua"
 title = "Python AI Mentor | Навчальна платформа"
 theme = "book"
 
-[module]
+[markup.goldmark.renderer]
+  unsafe = true
+
 [module.hugoVersion]
   extended = true
   min = "0.158.0"
@@ -11,3 +13,4 @@ theme = "book"
 [params]
   BookLogo = "🐍"
   BookSearch = true
+  BookSection = "practice"
