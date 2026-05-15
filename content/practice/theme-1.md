@@ -16,7 +16,7 @@
   <div>
     <h3>🤖 ШІ-Ментор (PyTutor)</h3>
     <p><i>Застрягли або виникла помилка? Скопіюйте свій код і запитайте ментора:</i></p>
-    <iframe src="https://bob-builder2022-python-ai-tutor.hf.space" width="100%" height="650px" style="border: 1px solid #e0e0e0; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);"></iframe>
+    <iframe src="https://bob-builder2020-python-ai-tutor.hf.space" width="100%" height="650px" style="border: 1px solid #e0e0e0; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);"></iframe>
   </div>
 
 </div>
