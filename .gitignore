@@ -1,0 +1,30 @@
+public/
+resources/
+.hugo_build.lock
+
+# Згенерований сайт (Vercel сам його згенерує, тому в Git це не пушимо)
+public/
+
+# Кеш та згенеровані ресурси Hugo (пришвидшують локальну роботу, але не потрібні в репозиторії)
+resources/_gen/
+.hugo_build.lock
+
+# Залежності (якщо в майбутньому використаєте Hugo Modules)
+_vendor/
+
+# Файли середовища (щоб випадково не злити секретні ключі, якщо вони з'являться)
+.env
+.env.local
+
+# Системні сміттєві файли (macOS та Windows)
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+ehthumbs.db
+
+# Налаштування редакторів коду (VS Code, IntelliJ/PyCharm)
+.vscode/
+.idea/
+*.swp
+*.swo
