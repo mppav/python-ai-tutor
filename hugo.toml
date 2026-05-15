@@ -1,8 +1,13 @@
 baseURL = 'https://python-ai-tutor.vercel.app/'
-languageCode = 'uk-ua'
-title = 'Python AI Mentor | Навчальна платформа'
-theme = 'hugo-book'
+languageCode = "uk-ua"
+title = "Python AI Mentor | Навчальна платформа"
+theme = "book"
+
+[module]
+[module.hugoVersion]
+  extended = true
+  min = "0.158.0"
 
 [params]
-  BookLogo = '🐍'
+  BookLogo = "🐍"
   BookSearch = true
