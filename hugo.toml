@@ -1,14 +1,17 @@
-baseURL = 'https://python-ai-tutor.vercel.app/'
+baseURL = "https://python-ai-tutor.vercel.app/"
 languageCode = "uk-ua"
 title = "Python AI Mentor | Навчальна платформа"
 theme = "book"
 
-[markup.goldmark.renderer]
-  unsafe = true
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
-[module.hugoVersion]
-  extended = true
-  min = "0.158.0"
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.110.0"
 
 [params]
   BookLogo = "🐍"
