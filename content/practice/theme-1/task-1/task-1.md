@@ -2,7 +2,7 @@
 title: "Задача 1.1: Перше виведення даних та коментарі"
 weight: 1
 type: docs
-theme: "theme-1"
+theme: "book"
 task_id: "task-1-1"
 difficulty: "Репродуктивний"
 points: 10

@@ -2,7 +2,7 @@
 title: "Задача 1.2: Форматування виводу декількох аргументів"
 weight: 2
 type: docs
-theme: "theme-1"
+theme: "book"
 task_id: "task-1-2"
 difficulty: "Репродуктивно-конструктивний"
 points: 15

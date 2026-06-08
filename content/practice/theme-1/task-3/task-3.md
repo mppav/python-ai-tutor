@@ -2,7 +2,7 @@
 title: "Задача 1.3: Виправлення синтаксичних помилок у шаблоні"
 weight: 3
 type: docs
-theme: "theme-1"
+theme: "book"
 task_id: "task-1-3"
 difficulty: "Реконструктивний"
 points: 15

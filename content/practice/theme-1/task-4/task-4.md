@@ -2,7 +2,7 @@
 title: "Задача 1.4: Творче завдання — візитівка в консолі"
 weight: 4
 type: docs
-theme: "theme-1"
+theme: "book"
 task_id: "task-1-4"
 difficulty: "Творчий"
 points: 20
